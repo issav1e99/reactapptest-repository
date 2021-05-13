@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactapptest-repository/static/css/main.72312425.chunk.css",
+    "main.js": "/reactapptest-repository/static/js/main.99e1d4e1.chunk.js",
+    "main.js.map": "/reactapptest-repository/static/js/main.99e1d4e1.chunk.js.map",
+    "runtime-main.js": "/reactapptest-repository/static/js/runtime-main.c5d732f6.js",
+    "runtime-main.js.map": "/reactapptest-repository/static/js/runtime-main.c5d732f6.js.map",
+    "static/js/2.0d650047.chunk.js": "/reactapptest-repository/static/js/2.0d650047.chunk.js",
+    "static/js/2.0d650047.chunk.js.map": "/reactapptest-repository/static/js/2.0d650047.chunk.js.map",
+    "static/js/3.42115355.chunk.js": "/reactapptest-repository/static/js/3.42115355.chunk.js",
+    "static/js/3.42115355.chunk.js.map": "/reactapptest-repository/static/js/3.42115355.chunk.js.map",
+    "index.html": "/reactapptest-repository/index.html",
+    "static/css/main.72312425.chunk.css.map": "/reactapptest-repository/static/css/main.72312425.chunk.css.map",
+    "static/js/2.0d650047.chunk.js.LICENSE.txt": "/reactapptest-repository/static/js/2.0d650047.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/reactapptest-repository/static/media/bg-intro-desktop.059183ee.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5d732f6.js",
+    "static/js/2.0d650047.chunk.js",
+    "static/css/main.72312425.chunk.css",
+    "static/js/main.99e1d4e1.chunk.js"
+  ]
+}
